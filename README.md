@@ -74,12 +74,14 @@ Dataset / Storage
 
 ```
 🔄 Future Improvements
-Advanced NLP models (BERT/LLMs)
-Real-time Gmail warnings
-Cloud deployment
-Analytics dashboard
+
+-Advanced NLP models (BERT/LLMs)
+-Real-time Gmail warnings
+-Cloud deployment
+-Analytics dashboard
+
 👨‍💻 Author
 
-Zumair Firoz Ansari 
-B.Tech CSE Student at IILM University
-Supervised under Adhvesh Kumar Gupta
+-Zumair Firoz Ansari 
+-B.Tech CSE Student at IILM University
+-Supervised under Mr. Adhvesh Kumar Gupta
