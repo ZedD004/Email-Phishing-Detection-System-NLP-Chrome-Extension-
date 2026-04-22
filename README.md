@@ -72,6 +72,7 @@ Dataset / Storage
   "confidence": 0.91
 }
 
+```
 🔄 Future Improvements
 Advanced NLP models (BERT/LLMs)
 Real-time Gmail warnings
